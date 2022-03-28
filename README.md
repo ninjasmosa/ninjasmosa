@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ninjasmosa
-- 👀 I’m interested in open-source software, cryptocurrency and networking
+- 👀 I’m interested in open-source software, cryptocurrency and coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...nothing right now really
 - 📫 How to reach me: Tag me on [Twitter (@ninjasmosa)](https://twitter.com/ninjasmosa) or email me (ninjasmosa@vivaldi.net)
