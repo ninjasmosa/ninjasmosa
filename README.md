@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @ninjasmosa
 - 👀 I’m interested in open-source software, cryptocurrency and coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and soon Rust, Ruby or C++
 - 💞️ I’m looking to collaborate on ...nothing right now really
 - 📫 How to reach me: Tag me on [Twitter (@ninjasmosa)](https://twitter.com/ninjasmosa) or email me (ninjasmosa@vivaldi.net)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjasmosa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjasmosa&layout=compact&theme=radical&exclude_repo=ninjasmosa.com)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
